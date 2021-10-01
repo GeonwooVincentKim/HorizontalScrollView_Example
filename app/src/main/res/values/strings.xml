@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HorizontalScrollView</string>
+    <string name="stringFirstTextScrollViewItem">33F</string>
+    <string name="stringSecondTextScrollViewItem">34F</string>
+    <string name="stringThirdTextScrollView">35F</string>
+    <string name="stringFourthTextScrollView">36F</string>
+    <string name="stringFifthTextScrollView">37F</string>
+</resources>
